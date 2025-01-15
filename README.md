@@ -1,11 +1,6 @@
-Here’s a sample `README.md` file for your GitHub repository:  
+ Java Practice Repository  
 
-```markdown
-# Java Practice Repository  
-
-Welcome to my **Java Practice Repository**! This repository contains a collection of programs, algorithms, and projects that I have worked on to enhance my Java programming skills.  
-
----
+Welcome to my Java Practice Repository! This repository contains a collection of programs, algorithms, and projects that I have worked on to enhance my Java programming skills.  
 
 🛠️ Features  
 
@@ -22,44 +17,43 @@ Welcome to my **Java Practice Repository**! This repository contains a collectio
   - File Handling  
   - Java Streams and Lambdas  
 - Problem Solving:  
-  -Practice problems from competitive programming platforms.  
-  -Solutions to common coding challenges.  
+  - Practice problems from competitive programming platforms.  
+  - Solutions to common coding challenges.  
 
-📁 Folder Structure  
+---
 
-```plaintext
+ 📁 Folder Structure  
+
 Java-Practice/
 ├── Basics/
 ├── OOP/
 ├── Advanced/
 └── README.md
-```
-Basics: Contains beginner-level programs.  
-DSA: Programs implementing data structures and algorithms.
-OOP: Programs demonstrating object-oriented programming concepts.  
-Advanced: Includes advanced Java features like multithreading and file handling.  
-Problems: Solutions to practice problems and coding challenges.  
 
-🚀 Getting Started  
+- Basics/: Contains beginner-level programs.  
+- DSA/: Programs implementing data structures and algorithms.  
+- OOP/: Programs demonstrating object-oriented programming concepts.  
+- Advanced/: Includes advanced Java features like multithreading and file handling.  
+- Problems/: Solutions to practice problems and coding challenges.  
 
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/<77atul>/java-practice.git
-   ```
+ 🚀 Getting Started  
+
+1. Clone the repository: git clone https://github.com/<77atul>/java-practice.git
 2. Open the folder in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).  
 3. Explore the code and start practicing!  
 
-🤝 Contributions  
+ 🤝 Contributions  
 
 This repository is for personal practice, but if you'd like to contribute or suggest improvements, feel free to submit a pull request or open an issue.  
 
-📚 Resources  
+ 📚 Resources  
 
 Here are some resources I use to improve my Java skills:  
 - [Official Java Documentation](https://docs.oracle.com/en/java/)  
 - [GeeksforGeeks - Java Programming](https://www.geeksforgeeks.org/java/)  
 - [LeetCode](https://leetcode.com/)  
+- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-java)
 
-🌟 Acknowledgments  
+ 🌟 Acknowledgments  
 
-Special thanks to all the platforms and mentors that have guided me in my Java learning journey.  
+Special thanks to all the platforms and mentors that have guided me in my Java learning journey.
