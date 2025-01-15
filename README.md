@@ -23,6 +23,7 @@ Welcome to my Java Practice Repository! This repository contains a collection of
 ---
 
  📁 Folder Structure  
+ ```plaintext
 
 Java-Practice/
 ├── Basics/
