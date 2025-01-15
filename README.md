@@ -18,18 +18,7 @@ Welcome to my Java Practice Repository! This repository contains a collection of
   - Java Streams and Lambdas  
 - Problem Solving:  
   - Practice problems from competitive programming platforms.  
-  - Solutions to common coding challenges.  
-
----
-
- 📁 Folder Structure  
- ```plaintext
-
-Java-Practice/
-├── Basics/
-├── OOP/
-├── Advanced/
-└── README.md
+  - Solutions to common coding challenges.
 
 - Basics/: Contains beginner-level programs.  
 - DSA/: Programs implementing data structures and algorithms.  
